@@ -1,3 +1,3 @@
 def gitUrlTesting(repo){
-  git "$(repo)"
+  git "${repo}"
 }
